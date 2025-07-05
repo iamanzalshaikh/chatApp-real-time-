@@ -7,7 +7,7 @@ import store from "./redux/store";
 import { BrowserRouter } from "react-router-dom";
 import "./index.css"; 
 
-export const serverUrl = "http://localhost:8000";
+export const serverUrl = "https://realtime-backend-3tka.onrender.com";
 
 
 ReactDOM.createRoot(document.getElementById("root")).render(
